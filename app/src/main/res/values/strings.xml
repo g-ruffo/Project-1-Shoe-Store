@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passwordHint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="loginButtonText">Login</string>
+    <string name="registerButtonText">Register</string>
+    <string name="loginTitle">Login</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcomeTextBlock">Thank you for downloading our Jet Tag store app, where you can find and add all of the latests tags we offer. \n\nClick next to get started!</string>
+    <string name="nextButtonText">Next</string>
+    <string name="onboardInstructionsTextBlock">Scroll through the current list of shoes we have for sale. \nIf you would like to add a new design to the catalogue click the plus button of the bottom right hand corner. \nOnce you are finished you can logout by clicking the menu item at the top right hand corner. \n\nEnjoy!</string>
+    <string name="instructionsTitle">Instructions</string>
+    <string name="finishButton">Finish</string>
+</resources>

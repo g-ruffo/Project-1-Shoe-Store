@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6706ee</color>
+    <color name="colorPrimaryDark">#1900ba</color>
+    <color name="colorComplementary">#8dee06</color>
+    <color name="colorAccentPink">#ee068d</color>
+    <color name="colorAccentOrange">#ee6706</color>
+    <color name="colorAnalogousBlue">#4b26fd</color>
+    <color name="colorAnalogousPurple">#db06ee</color>
+
+</resources>
